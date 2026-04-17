@@ -231,7 +231,7 @@ export default function App() {
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-5xl font-bold mb-6">Exclusive Game Library</h2>
             <p className="text-xl text-zinc-400 max-w-3xl mx-auto">
-              We hold exclusive rights to several games for the video device segment, including the classic <strong className="text-emerald-400">Caribbean Stud Poker</strong>.
+              We hold exclusive rights to several games for the video device segment, including <strong className="text-emerald-400">Caribbean Stud Poker, Progressive Blackjack, Bonus Blackjack, Blackjack Bullets, Roulette 21 and other popular electronic table game titles</strong>.
             </p>
           </div>
 
